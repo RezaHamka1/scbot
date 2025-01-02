@@ -1,0 +1,2 @@
+# scbot
+c bot wa
